@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yc82628
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Bachelor's degree in Computer Science
-- 💞️ I’m looking to collaborate on any projects including to code on python, so don't hesitate
+- 💞️ I’m looking to collaborate on any projects including to code on python, so don't hesitate to contact me
 - 📫 How to reach me? Through my email or LinkedIn
 - ⚡ Fun fact: You will soon know more about me in person. 
 
